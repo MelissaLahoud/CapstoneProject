@@ -1,2 +1,3 @@
-# CapstoneProject
-Predicting Sales Growth
+# Predicting Sales Growth with ARIMA
+CapstoneProject
+
