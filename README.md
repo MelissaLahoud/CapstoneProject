@@ -185,6 +185,7 @@
 
 ## **Resources:**
 https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
 
 ## **Additional Help:**
 
