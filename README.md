@@ -179,6 +179,7 @@
 
 
 ## **Conclusions:**
+  The ARIMA models forcasted sales at a 95% accuracy level. This can be used for any sales data of your choice.
   
 ## **Optional Data Exploration in Tableau:**
   You will need to download Tableau Public and create an account. The link is here: https://public.tableau.com/en-us/s/
