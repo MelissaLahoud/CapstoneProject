@@ -183,11 +183,12 @@
   
 ## **Optional Data Exploration in Tableau:**
   You will need to download Tableau Public and create an account. The link is here: https://public.tableau.com/en-us/s/
+  You can access my data exploration in Tableau here: https://public.tableau.com/app/profile/melissa.lahoud/viz/Capstone-DataExploration-Final/Dashboard1?publish=yes
+  If you need help creating your own, there is a great video to help: https://www.youtube.com/watch?v=Aql27yGqHkE
 
 ## **Resources:**
 https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
 https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
 
 ## **Additional Help:**
-
-
+  Tableau: https://www.youtube.com/watch?v=Aql27yGqHkE
