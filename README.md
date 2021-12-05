@@ -187,9 +187,9 @@
    - If you need help creating your own, there is a great video to help: https://www.youtube.com/watch?v=Aql27yGqHkE
 
 ## **Resources & Additional Help:**
-Python:
-https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
-https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
-Tableau: 
-https://www.youtube.com/watch?v=Aql27yGqHkE
+   - Python:
+      https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
+       https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
+   - Tableau: 
+      https://www.youtube.com/watch?v=Aql27yGqHkE
 
