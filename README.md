@@ -15,6 +15,8 @@
 ## **Software Requirements:**
 
   Python: To install click the following link https://www.python.org/downloads/
+  Jupyter: To install click the following link https://jupyter.org/
+  If you need more help, please see the resources below.
   
   
  
@@ -187,9 +189,12 @@
    - If you need help creating your own, there is a great video to help: https://www.youtube.com/watch?v=Aql27yGqHkE
 
 ## **Resources & Additional Help:**
+   - Install Python/Jupyter:
+      https://www.youtube.com/watch?v=Vn_6kZjInfE
    - Python:
       https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
-       https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
+      https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
+      https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
    - Tableau: 
       https://www.youtube.com/watch?v=Aql27yGqHkE
 
