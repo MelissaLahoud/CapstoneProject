@@ -184,7 +184,7 @@
   The ARIMA models forcasted sales at a 95% accuracy level. This can be used for any sales data of your choice.
   
 ## **Optional Data Exploration in Tableau:**
-   - **FYI: ANY DATA YOU PUT INTO TABLEAU PUBLIC CAN BE ACCESSED BY ANYONE. PLEASE DO NOT ENTER ANY PRIVACY INFORMATION!!**
+   - **WARNING: ANY DATA YOU PUT INTO TABLEAU PUBLIC CAN BE ACCESSED BY ANYONE. PLEASE DO NOT ENTER ANY PRIVACY INFORMATION!!**
    - You will need to download Tableau Public and create an account. The link is here: https://public.tableau.com/en-us/s/
    - You can access my data exploration in Tableau here: https://public.tableau.com/app/profile/melissa.lahoud/viz/Capstone-DataExploration-Final/Dashboard1?publish=yes
    - If you need help creating your own, there is a great video to help: https://www.youtube.com/watch?v=Aql27yGqHkE
