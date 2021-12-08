@@ -184,6 +184,7 @@
   The ARIMA models forcasted sales at a 95% accuracy level. This can be used for any sales data of your choice.
   
 ## **Optional Data Exploration in Tableau:**
+   - **FYI: ANY DATA YOU PUT INTO TABLEAU PUBLIC CAN BE ACCESSED BY ANYONE. PLEASE DO NOT ENTER ANY PRIVACY INFORMATION!!**
    - You will need to download Tableau Public and create an account. The link is here: https://public.tableau.com/en-us/s/
    - You can access my data exploration in Tableau here: https://public.tableau.com/app/profile/melissa.lahoud/viz/Capstone-DataExploration-Final/Dashboard1?publish=yes
    - If you need help creating your own, there is a great video to help: https://www.youtube.com/watch?v=Aql27yGqHkE
@@ -195,6 +196,8 @@
       https://coderzcolumn.com/tutorials/data-science/how-to-remove-trend-and-seasonality-from-time-series-data-using-python-pandas#7
       https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
       https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
+   - Install Tableau Public: https://www.youtube.com/watch?v=hsEwSmdv0Y8
    - Tableau: 
       https://www.youtube.com/watch?v=Aql27yGqHkE
+      
 
