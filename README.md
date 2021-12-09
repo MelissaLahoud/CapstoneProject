@@ -199,5 +199,5 @@
    - Install Tableau Public: https://www.youtube.com/watch?v=hsEwSmdv0Y8
    - Tableau: 
       https://www.youtube.com/watch?v=Aql27yGqHkE
-   -Security Laws: https://iclg.com/practice-areas/data-protection-laws-and-regulations/usa
+   - Security Laws: https://iclg.com/practice-areas/data-protection-laws-and-regulations/usa
 
