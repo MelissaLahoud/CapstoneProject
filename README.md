@@ -12,7 +12,7 @@
   
 ![image](https://user-images.githubusercontent.com/81201081/143964538-7a10a3d2-b500-4519-a414-c550f730f5b4.png)
 
-## **Software Requirements:**
+## **Software Requirements: You will need to have these to work with the code.**
 
   Python: To install click the following link https://www.python.org/downloads/
   Jupyter: To install click the following link https://jupyter.org/
@@ -20,7 +20,7 @@
   
   
  
-## **Steps for Python Code:**
+## **Steps for Python Code: You are able to copy and paste the code into your own Jupyter Notebook.**
 
   ### **Step 1:** Import all libraries needed for the code.
   
