@@ -197,6 +197,7 @@
       https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/#2introductiontoarimamodels
       https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
       https://medium.com/analytics-vidhya/predicting-sales-time-series-analysis-forecasting-with-python-b81d3e8ff03f
+      https://www.machinelearningplus.com/time-series/time-series-analysis-python/#5patternsinatimeseries
    - Install Tableau Public: https://www.youtube.com/watch?v=hsEwSmdv0Y8
    - Tableau: 
       https://www.youtube.com/watch?v=Aql27yGqHkE
