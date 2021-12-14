@@ -15,7 +15,9 @@
 ## **Software Requirements: You will need to have these to work with the code.**
 
   Python: To install click the following link https://www.python.org/downloads/
+  
   Jupyter: To install click the following link https://jupyter.org/
+  
   If you need more help, please see the resources below.
   
   
