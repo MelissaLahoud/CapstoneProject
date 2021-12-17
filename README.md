@@ -34,6 +34,7 @@
   - My data is included above name= "DATASET"
 
   ### **Step 3:** Load the data and split it into a Train and Test set. 
+   - You will need to make sure the directory is correct to where your data is saved.
    - The data should have two varaibles: Date and Sales (Be sure the title of the columns are changed to match these exactly)
    - You can use any amount of lines of data but the data used here has 175,190 lines that run from year 2016-2021.
    - For the data, you will need to delete or fix lines of data where there are "0" values, duplicate values, and/or blank values.
@@ -181,7 +182,9 @@
 
  ![image](https://user-images.githubusercontent.com/81201081/143974014-e07340d9-e677-4dd7-8f13-2b5d2f77af24.png)
 
-
+###  **EXPORT REPORTS:** This is an option at the end of the code to export the data exploation graphs and the results. These file will be saved to your computer as a PDF.
+  - You will want to change where the file is going to where you would like it saved. 
+  
 ## **Conclusions:**
   The ARIMA models forcasted sales at a 95% accuracy level. This can be used for any sales data of your choice.
   
